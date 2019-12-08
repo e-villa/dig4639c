@@ -1,0 +1,12 @@
+.profile-box {
+  min-width: 400px;
+  max-width: 600px;
+  position: fixed;
+  padding: 15px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+}
+
+.profile-scroll {
+  scroll-behavior: auto;
+}
